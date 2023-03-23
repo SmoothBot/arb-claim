@@ -1,5 +1,5 @@
 networks:
-  default: avax-main-fork
+  default: arbitrum-main
 
 # automatically fetch contract sources from Etherscan
 autofetch_sources: True
